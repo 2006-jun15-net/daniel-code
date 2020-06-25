@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookApp", "ChinookApp\ChinookApp.csproj", "{DEABE6E8-4F29-4003-B917-3111FC03007C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookApp.DataConnect", "ChinookApp.DataConnect\ChinookApp.DataConnect.csproj", "{95D47570-5834-4C0A-9AC7-51D97203CB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEABE6E8-4F29-4003-B917-3111FC03007C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEABE6E8-4F29-4003-B917-3111FC03007C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEABE6E8-4F29-4003-B917-3111FC03007C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEABE6E8-4F29-4003-B917-3111FC03007C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D47570-5834-4C0A-9AC7-51D97203CB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D47570-5834-4C0A-9AC7-51D97203CB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D47570-5834-4C0A-9AC7-51D97203CB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D47570-5834-4C0A-9AC7-51D97203CB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCF6C1C-4395-45AC-A3CE-E7B960FC6F90}
+	EndGlobalSection
+EndGlobal
