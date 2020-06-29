@@ -58,3 +58,7 @@ SELECT SUM(Price) as iPhonesum
 FROM Products
 	FULL JOIN Orders ON Products.ProductsID = Orders.ProductsID
 WHERE Products.Name = 'iPhone';
+
+UPDATE Products
+SET Price = 250
+WHERE Name = 'iPhone';
