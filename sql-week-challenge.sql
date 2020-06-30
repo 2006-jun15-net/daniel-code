@@ -62,3 +62,7 @@ WHERE Products.Name = 'iPhone';
 UPDATE Products
 SET Price = 250
 WHERE Name = 'iPhone';
+
+--DROP Products
+--DROP Customers
+--DROP Orders
